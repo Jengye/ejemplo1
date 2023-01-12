@@ -6,10 +6,11 @@ public class mi_bicicleta {
 		// TODO Auto-generated method stub
 	Bicicleta miBicicleta = new Bicicleta (50,8,6);
 	Bicicleta tuBicicleta = new Bicicleta (50,7,9);
+	Bicicleta suBicicleta = new Bicicleta (50,7,9);
 	Bicicleta Bicicletacarol = new Bicicleta (50,7,9);
 	miBicicleta.acelerar();
 	tuBicicleta.frenar();
-	
+	///////////////////////////
 	System.out.println(miBicicleta);
 	}
 
