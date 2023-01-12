@@ -10,7 +10,7 @@ public class mi_bicicleta {
 	Bicicleta Bicicletacarol = new Bicicleta (50,7,9);
 	miBicicleta.acelerar();
 	tuBicicleta.frenar();
-	
+	///////////////////////////
 	System.out.println(miBicicleta);
 	}
 
